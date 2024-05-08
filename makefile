@@ -16,4 +16,4 @@ purge:
 	rm -f *.gch *.o $(PROGRAM)
 
 clean:
-	rm -f *.o $(PROGRAM)
+	rm -f *.o
